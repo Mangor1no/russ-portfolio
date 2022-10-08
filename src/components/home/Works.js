@@ -209,20 +209,6 @@ const Works = () => {
                 <ul className="list-inside list-disc space-y-3">
                   <li>
                     <span className="font-semibold text-teal-500 dark:text-teal-400">
-                      Vin Elite:
-                    </span>{' '}
-                    An e-commerce platform for purchasing luxury goods. This
-                    must be the most difficult project I&apos;ve encountered,
-                    since it is based on Drupal, an open-source CMS written in
-                    PHP. However, me and my team were able to deliver the best
-                    we could, including a functional CMS dashboard integrated
-                    with different shipping services, VNPay payment service,
-                    sales management and order management. We also created an
-                    extraordinary elite user interface for the customers, and a
-                    well-functioning voucher system.
-                  </li>
-                  <li>
-                    <span className="font-semibold text-teal-500 dark:text-teal-400">
                       Maeda:
                     </span>{' '}
                     Before the client changed the name of the project to Locate,
