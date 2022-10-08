@@ -20,7 +20,7 @@ function SEOHead() {
       <meta property="og:title" content="Russ Tran | Front end Engineer" />
       <meta
         property="og:image"
-        content="https://live.staticflickr.com/65535/52413453903_1558729992_m.jpg"
+        content="https://live.staticflickr.com/65535/52414130608_e83470f661_h.jpg"
       />
 
       <meta property="twitter:card" content="summary_large_image" />
@@ -32,7 +32,7 @@ function SEOHead() {
       />
       <meta
         property="twitter:image"
-        content="https://live.staticflickr.com/65535/52413453903_1558729992_m.jpg"
+        content="https://live.staticflickr.com/65535/52414130608_e83470f661_h.jpg"
       />
 
       <meta
