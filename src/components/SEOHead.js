@@ -20,7 +20,11 @@ function SEOHead() {
       <meta property="og:title" content="Russ Tran | Front end Engineer" />
       <meta
         property="og:image"
-        content="live.staticflickr.com/65535/52414087165_386d1c8a94_b.jpg"
+        content="https://live.staticflickr.com/65535/52414087165_386d1c8a94_b.jpg"
+      />
+      <meta
+        name="og:description"
+        content="I create beautiful, fast and secure web applications tailored exclusively for your business goals"
       />
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content="https://www.russdev.net/" />
@@ -31,9 +35,8 @@ function SEOHead() {
       />
       <meta
         property="twitter:image"
-        content="live.staticflickr.com/65535/52414087165_386d1c8a94_b.jpg"
+        content="https://live.staticflickr.com/65535/52414087165_386d1c8a94_b.jpg"
       />
-
       <meta
         name="google-site-verification"
         content="veIpX8GsP0VAcw4Vj30dKcbXerORD0WitXFjGt_Swqk"
