@@ -27,7 +27,7 @@ const Hero = ({ handleScrollDown }) => {
             Hi, I&apos;m{' '}
             <span className="text-teal-500 dark:text-teal-400">Russ</span>
           </h1>
-          <p className="text-xl font-medium md:text-2xl">
+          <p className="text-xl font-semibold md:text-2xl">
             I love crafting beautiful web applications with an elegant user
             experience
           </p>
