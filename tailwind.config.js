@@ -8,6 +8,9 @@ module.exports = {
     './src/components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
+    fontFamily: {
+      inter: ['Inter'],
+    },
     colors: {
       primary: '#111827',
       secondary: '#415469',
