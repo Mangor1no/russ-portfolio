@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@keyframes pulseSlower {
+  50% {
+    opacity: 0.5;
+  }
+}
+.animate-pulse-slower {
+  animation: pulseSlower 5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes bounceSlower {
+  0%,
+  100% {
+    transform: translateY(-25%);
+    animation-timing-function: cubic-bezier(0.5, 0, 1, 1);
+  }
+  50% {
+    transform: none;
+    animation-timing-function: cubic-bezier(0.3, 0, 0.1, 1);
+  }
+}
+.animate-bounce-slower {
+  animation: bounceSlower 2s infinite;
+}
