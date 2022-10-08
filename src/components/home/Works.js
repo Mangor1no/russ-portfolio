@@ -212,15 +212,26 @@ const Works = () => {
                       Maeda:
                     </span>{' '}
                     Before the client changed the name of the project to Locate,
-                    it was Maeda. This is the first project that I have ever
-                    written with React Native. While working on the project, I
-                    was able to deliver the mobile application for both iOS and
-                    Android users, helping them to place foods and beverages
-                    with various options from their favorite restaurants. I also
+                    it was{' '}
+                    <span className="font-semibold text-teal-500 dark:text-teal-400">
+                      Maeda
+                    </span>
+                    . This is the first project that I have ever written with
+                    React Native. While working on the project, I was able to
+                    deliver the mobile application for both iOS and Android
+                    users, helping them to place foods and beverages with
+                    various options from their favorite restaurants. I also
                     successfully implemented the voucher system to give users a
-                    lot of promotions from both restaurants and Maeda,
-                    increasing the time users spent on the application.
-                    Nowadays, Maeda has thousands of orders per day.
+                    lot of promotions from both restaurants and{' '}
+                    <span className="font-semibold text-teal-500 dark:text-teal-400">
+                      Maeda
+                    </span>
+                    , increasing the time users spent on the application.
+                    Nowadays,{' '}
+                    <span className="font-semibold text-teal-500 dark:text-teal-400">
+                      Maeda
+                    </span>{' '}
+                    has thousands of orders per day.
                   </li>
                   <li>
                     <a
@@ -241,16 +252,19 @@ const Works = () => {
                     <span className="font-semibold text-teal-500 dark:text-teal-400">
                       SOLID.engineer:
                     </span>{' '}
-                    While working at SOLID.engineer, my first task was to create
-                    the company landing page using HTML, CSS and Javascript
-                    only. I was able to manage the task, and successfully
-                    delivered the website to the BoD with a main homepage, a
-                    blog section and a contact form. The working process took me
-                    a lot of time, and this is the first time I learned how to
-                    optimize a website using Chrome Profiling and Audit tools.
-                    The final product took less than 1.5 seconds to fully loaded
-                    the first time (without browser cache) and less than 1
-                    second to load (with browser cache).
+                    While working at{' '}
+                    <span className="font-semibold text-teal-500 dark:text-teal-400">
+                      SOLID.engineer
+                    </span>
+                    , my first task was to create the company landing page using
+                    HTML, CSS and Javascript only. I was able to manage the
+                    task, and successfully delivered the website to the BoD with
+                    a main homepage, a blog section and a contact form. The
+                    working process took me a lot of time, and this is the first
+                    time I learned how to optimize a website using Chrome
+                    Profiling and Audit tools. The final product took less than
+                    1.5 seconds to fully loaded the first time (without browser
+                    cache) and less than 1 second to load (with browser cache).
                   </li>
                 </ul>
               </div>
