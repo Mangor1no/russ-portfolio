@@ -238,14 +238,9 @@ const Works = () => {
                     school&apos;s facility they are about to register at.
                   </li>
                   <li>
-                    <a
-                      href="https://tuyensinh.luongthevinh.com.vn/"
-                      target={'_blank'}
-                      className="font-semibold text-teal-500 duration-200 hover:text-teal-600 hover:underline hover:underline-offset-2 dark:text-teal-400"
-                      rel="noreferrer"
-                    >
+                    <span className="font-semibold text-teal-500 dark:text-teal-400">
                       SOLID.engineer:
-                    </a>{' '}
+                    </span>{' '}
                     While working at SOLID.engineer, my first task was to create
                     the company landing page using HTML, CSS and Javascript
                     only. I was able to manage the task, and successfully
