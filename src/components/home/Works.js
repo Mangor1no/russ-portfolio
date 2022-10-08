@@ -186,7 +186,7 @@ const Works = () => {
                 >
                   SOLID.engineer
                 </a>
-              </p>
+              </h3>
             }
             content={
               <div className="space-y-4 dark:text-slate-200">
