@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.russdev.net
+
+# Sitemaps
+Sitemap: https://www.russdev.net/sitemap.xml

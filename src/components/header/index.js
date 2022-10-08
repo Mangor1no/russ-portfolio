@@ -39,6 +39,7 @@ const Header = () => {
         onClick={
           darkMode ? changeThemeHandler('light') : changeThemeHandler('dark')
         }
+        aria-label="Change theme"
       >
         <IconTheme isDarkMode={darkMode} />
       </button>

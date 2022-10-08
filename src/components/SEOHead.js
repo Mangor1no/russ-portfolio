@@ -23,7 +23,7 @@ function SEOHead() {
         content="https://live.staticflickr.com/65535/52414087165_386d1c8a94_b.jpg"
       />
       <meta
-        name="og:description"
+        property="og:description"
         content="I create beautiful, fast and secure web applications tailored exclusively for your business goals"
       />
       <meta property="twitter:card" content="summary_large_image" />

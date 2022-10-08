@@ -20,7 +20,6 @@ const Hero = ({ handleScrollDown }) => {
           alt="russ-tran"
           width={120}
           height={120}
-          unoptimized
           className="rounded-full border-4 border-white"
         />
         <div className="flex flex-col items-center gap-2 text-center">
