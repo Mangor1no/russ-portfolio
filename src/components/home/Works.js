@@ -4,7 +4,7 @@ import JobDisclosure from './JobDisclosure'
 const Works = () => {
   return (
     <div className="py-10 text-lg md:py-20 md:text-xl">
-      <p className="mb-10 text-4xl font-bold">Work Experiences 👨‍💻</p>
+      <h2 className="mb-10 text-4xl font-bold">Work Experiences 👨‍💻</h2>
       {/* <JobDisclosure /> */}
       <div className="space-y-10">
         <div>
@@ -13,7 +13,7 @@ const Works = () => {
           </p>
           <JobDisclosure
             title={
-              <p className="text-left text-2xl font-semibold">
+              <h3 className="text-left text-2xl font-semibold">
                 Front end Engineer at{' '}
                 <a
                   href="https://www.just.engineer"
@@ -23,7 +23,7 @@ const Works = () => {
                 >
                   JUST.engineer
                 </a>
-              </p>
+              </h3>
             }
             content={
               <div className="space-y-4 dark:text-slate-200">
@@ -176,7 +176,7 @@ const Works = () => {
           </p>
           <JobDisclosure
             title={
-              <p className="text-left text-2xl font-semibold">
+              <h3 className="text-left text-2xl font-semibold">
                 Front end Engineer at{' '}
                 <a
                   href="https://www.just.engineer"
@@ -282,7 +282,7 @@ const Works = () => {
           </p>
           <JobDisclosure
             title={
-              <p className="text-left text-2xl font-semibold">
+              <h3 className="text-left text-2xl font-semibold">
                 Front end Engineer at{' '}
                 <a
                   href="https://job.vccorp.vn/"
@@ -292,7 +292,7 @@ const Works = () => {
                 >
                   VCCorp
                 </a>
-              </p>
+              </h3>
             }
             content={
               <div className="space-y-4 dark:text-slate-200">

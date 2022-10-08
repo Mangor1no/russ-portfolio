@@ -5,7 +5,7 @@ import Image from 'next/future/image'
 const About = forwardRef((props, ref) => {
   return (
     <div className="py-10 text-lg md:py-20 md:text-xl" ref={ref}>
-      <p className="mb-10 text-4xl font-bold">Hello there 👋</p>
+      <h2 className="mb-10 text-4xl font-bold">Hello there 👋</h2>
       <p>
         I&apos;m a front end developer from{' '}
         <Image src={flag} alt="vietnam" width={24} className="inline" />{' '}

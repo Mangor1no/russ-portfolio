@@ -24,10 +24,10 @@ const Hero = ({ handleScrollDown }) => {
           className="rounded-full border-4 border-white"
         />
         <div className="flex flex-col items-center gap-2 text-center">
-          <p className="text-5xl font-extrabold">
+          <h1 className="text-5xl font-extrabold">
             Hi, I&apos;m{' '}
             <span className="text-teal-500 dark:text-teal-400">Russ</span>
-          </p>
+          </h1>
           <p className="text-xl font-medium md:text-2xl">
             I love crafting beautiful web applications with an elegant user
             experience
