@@ -219,7 +219,7 @@ const Works = () => {
                     . This is the first project that I have ever written with
                     React Native. While working on the project, I was able to
                     deliver the mobile application for both iOS and Android
-                    users, helping them to place foods and beverages with
+                    users, helping them to order foods and beverages with
                     various options from their favorite restaurants. I also
                     successfully implemented the voucher system to give users a
                     lot of promotions from both restaurants and{' '}
