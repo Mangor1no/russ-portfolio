@@ -86,7 +86,7 @@ const Works = () => {
                     Membership page, Learning page and creating new Events page,
                     I helped the users to easily choose what they want to learn
                     and which subscription packages they want to pay for. I also
-                    delivered a brand new fantasy trading competition called
+                    delivered a brand new trading competition called
                     7-days Challenge (a fantasy trading game) to help new
                     traders experience with the stock market before they enter
                     the real battle.
