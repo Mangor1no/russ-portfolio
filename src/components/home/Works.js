@@ -86,7 +86,7 @@ const Works = () => {
                     Membership page, Learning page and creating new Events page,
                     I helped the users to easily choose what they want to learn
                     and which subscription packages they want to pay for. I also
-                    delivered a brand new fantasy trading competition called
+                    delivered a brand new trading competition called
                     7-days Challenge (a fantasy trading game) to help new
                     traders experience with the stock market before they enter
                     the real battle.
@@ -154,9 +154,9 @@ const Works = () => {
                       JUST.engineer
                     </span>{' '}
                     was the result of my free time. After the Tet Holiday (a
-                    traditional holiday in our country), I feel like I have all
-                    the time in the world and also notice that our company
-                    landing page is not that good. So I turned on my PC, opened
+                    traditional holiday in our country), I felt like I had all
+                    the time in the world and also noticed that our company
+                    landing page was not that good. So I turned on my PC, opened
                     Figma, drafted some prototypes, opened VSCode and started
                     typing. The whole project was completed in less than a week,
                     and I think it was very well-crafted. I also added a small
@@ -219,7 +219,7 @@ const Works = () => {
                     . This is the first project that I have ever written with
                     React Native. While working on the project, I was able to
                     deliver the mobile application for both iOS and Android
-                    users, helping them to place foods and beverages with
+                    users, helping them to order foods and beverages with
                     various options from their favorite restaurants. I also
                     successfully implemented the voucher system to give users a
                     lot of promotions from both restaurants and{' '}
