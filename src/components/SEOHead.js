@@ -6,12 +6,12 @@ function SEOHead() {
       <title>Russ Tran | Front end Engineer</title>
       <meta
         name="description"
-        content="I create beautiful, fast and secure web applications tailored exclusively for your business goals"
+        content="I'm Russ Tran, a front end engineer/freelancer who love to create beautiful, fast and secure web applications tailored exclusively for your business goals"
       />
       <meta name="title" content="Russ Tran | Front end Engineer" />
       <meta
         name="keywords"
-        content="russ, tung manh tran, website, web app, web applications, web application, mobile apps, web apps, websites, technology, developer, freelancer"
+        content="russ tran, tung manh tran, website, web app, web application, mobile app, websites, technology, developer, freelancer, russdev, front end"
       />
       <meta name="author" content="Russ Tran" />
 
@@ -24,14 +24,14 @@ function SEOHead() {
       />
       <meta
         property="og:description"
-        content="I create beautiful, fast and secure web applications tailored exclusively for your business goals"
+        content="I'm Russ Tran, a front end engineer/freelancer who love to create beautiful, fast and secure web applications tailored exclusively for your business goals"
       />
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content="https://www.russdev.net/" />
       <meta property="twitter:title" content="Russ Tran | Front end Engineer" />
       <meta
         property="twitter:description"
-        content="I create beautiful, fast and secure web applications tailored exclusively for your business goals"
+        content="I'm Russ Tran, a front end engineer/freelancer who love to create beautiful, fast and secure web applications tailored exclusively for your business goals"
       />
       <meta
         property="twitter:image"

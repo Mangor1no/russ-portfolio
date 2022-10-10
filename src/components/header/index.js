@@ -27,7 +27,6 @@ const Header = () => {
     }
     localStorage.setItem('russ-theme', theme)
   }
-
   return (
     <div className="flex items-center justify-between py-5">
       <div className="flex items-baseline text-2xl">
@@ -46,5 +45,4 @@ const Header = () => {
     </div>
   )
 }
-
 export default Header
