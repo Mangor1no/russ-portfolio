@@ -154,9 +154,9 @@ const Works = () => {
                       JUST.engineer
                     </span>{' '}
                     was the result of my free time. After the Tet Holiday (a
-                    traditional holiday in our country), I feel like I have all
-                    the time in the world and also notice that our company
-                    landing page is not that good. So I turned on my PC, opened
+                    traditional holiday in our country), I felt like I had all
+                    the time in the world and also noticed that our company
+                    landing page was not that good. So I turned on my PC, opened
                     Figma, drafted some prototypes, opened VSCode and started
                     typing. The whole project was completed in less than a week,
                     and I think it was very well-crafted. I also added a small
