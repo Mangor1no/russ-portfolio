@@ -33,15 +33,26 @@ const Header = () => {
         <span className="font-bold">RUSS</span>
         <span className="">Tran</span>
       </div>
-      <button
-        type="button"
-        onClick={
-          darkMode ? changeThemeHandler('light') : changeThemeHandler('dark')
-        }
-        aria-label="Change theme"
-      >
-        <IconTheme isDarkMode={darkMode} />
-      </button>
+      <div className="flex items-center justify-between gap-3 md:gap-8">
+        <a
+          href="content/TranManhTung_ReactJS_MidLevel.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          download
+          className="font-semibold duration-200 hover:text-teal-500 active:text-teal-600 dark:hover:text-teal-400 dark:active:text-teal-500"
+        >
+          My Resume
+        </a>
+        <button
+          type="button"
+          onClick={
+            darkMode ? changeThemeHandler('light') : changeThemeHandler('dark')
+          }
+          aria-label="Change theme"
+        >
+          <IconTheme isDarkMode={darkMode} />
+        </button>
+      </div>
     </div>
   )
 }
