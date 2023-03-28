@@ -9,10 +9,6 @@ const fontInterBold = fetch(
   new URL('../../../public/fonts/Inter-Bold.ttf', import.meta.url)
 ).then((res) => res.arrayBuffer())
 
-const fontInterMedium = fetch(
-  new URL('../../../public/fonts/Inter-Medium.ttf', import.meta.url)
-).then((res) => res.arrayBuffer())
-
 const fontInterRegular = fetch(
   new URL('../../../public/fonts/Inter-Regular.ttf', import.meta.url)
 ).then((res) => res.arrayBuffer())
@@ -75,7 +71,7 @@ export default async function OGHandler() {
           <p
             style={{
               fontSize: 32,
-              fontFamily: 'Inter-Medium',
+              fontFamily: 'Inter-Bold',
               padding: '8px',
             }}
           >
@@ -88,7 +84,7 @@ export default async function OGHandler() {
               backgroundColor: '#2dd4bf',
               fontSize: 32,
               borderRadius: '999999px',
-              fontFamily: 'Inter-Medium',
+              fontFamily: 'Inter-Bold',
               color: '#111827',
             }}
           >
@@ -130,11 +126,6 @@ export default async function OGHandler() {
         {
           name: 'Inter-Bold',
           data: fontDataBold,
-          style: 'normal',
-        },
-        {
-          name: 'Inter-Medium',
-          data: fontDataMedium,
           style: 'normal',
         },
         {
