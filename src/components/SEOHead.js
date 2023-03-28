@@ -38,10 +38,6 @@ function SEOHead() {
 
       <link rel="icon" type="image/x-icon" href="/favicon.ico" />
       <link rel="canonical" href={`https://www.russdev.net`} />
-      <meta
-        name="cozycot-one-time-domain-verification-id"
-        content="2e351c5a-0c5c-4c0c-895c-3d074e4fb830"
-      />
     </NextHead>
   )
 }
