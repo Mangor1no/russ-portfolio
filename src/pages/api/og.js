@@ -15,7 +15,6 @@ const fontInterRegular = fetch(
 
 export default async function OGHandler() {
   const fontDataBold = await fontInterBold
-  const fontDataMedium = await fontInterMedium
   const fontDataRegular = await fontInterRegular
 
   return new ImageResponse(
