@@ -35,11 +35,6 @@ function SEOHead() {
         name="google-site-verification"
         content="veIpX8GsP0VAcw4Vj30dKcbXerORD0WitXFjGt_Swqk"
       />
-      <meta
-        name="cozycot-domain-verification-by-meta-tag-id"
-        content="8eea3ca4-9aef-48ec-ae2a-6adaa23d0f23"
-      />
-
       <link rel="icon" type="image/x-icon" href="/favicon.ico" />
       <link rel="canonical" href={`https://www.russdev.net`} />
     </NextHead>
