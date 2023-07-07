@@ -35,6 +35,7 @@ function SEOHead() {
         name="google-site-verification"
         content="veIpX8GsP0VAcw4Vj30dKcbXerORD0WitXFjGt_Swqk"
       />
+      {/* Meta tag */}
       <link rel="icon" type="image/x-icon" href="/favicon.ico" />
       <link rel="canonical" href={`https://www.russdev.net`} />
     </NextHead>
