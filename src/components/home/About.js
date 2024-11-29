@@ -20,8 +20,7 @@ const About = forwardRef((props, ref) => {
         <span className="font-semibold text-teal-500 dark:text-teal-400">
           Russ Tran
         </span>
-        . I&apos;m currently working with React in my projects, and I&apos;m a
-        TailwindCSS fan.
+        . I&apos;m currently working with React, exploring AdonisJS, TanStack Start and learning Go for fun.
       </p>
       <br />
       <p>
