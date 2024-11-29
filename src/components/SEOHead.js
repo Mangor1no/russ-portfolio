@@ -31,13 +31,13 @@ function SEOHead() {
         content="I'm Russ Tran, a front end engineer/freelancer who love to create beautiful, fast and secure web applications tailored exclusively for your business goals"
       />
       <meta property="twitter:image" content="https://www.russdev.net/api/og" />
+      {/* Meta tag */}
+      <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+      <link rel="canonical" href={`https://www.russdev.net`} />
       <meta
         name="google-site-verification"
         content="veIpX8GsP0VAcw4Vj30dKcbXerORD0WitXFjGt_Swqk"
       />
-      {/* Meta tag */}
-      <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-      <link rel="canonical" href={`https://www.russdev.net`} />
     </NextHead>
   )
 }
