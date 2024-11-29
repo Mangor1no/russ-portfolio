@@ -53,7 +53,7 @@ export default function Document() {
           }}
         />
       </Head>
-      <body>
+      <body className='bg-white font-inter text-primary dark:bg-primary dark:text-white'>
         <Main />
         <NextScript />
       </body>

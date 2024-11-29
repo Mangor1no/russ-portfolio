@@ -14,7 +14,7 @@ const Works = () => {
           <JobDisclosure
             title={
               <h3 className="text-left text-2xl font-semibold">
-                Front end Engineer at{' '}
+                Front end Engineer/Team leader at{' '}
                 <a
                   href="https://www.just.engineer"
                   target="_blank"
@@ -38,34 +38,42 @@ const Works = () => {
 
                 <ul className="list-inside list-disc space-y-3">
                   <li>
+                    <span className="font-semibold text-teal-500 duration-200 hover:text-teal-600 hover:underline hover:underline-offset-2 dark:text-teal-400">
+                      Hidden name:
+                    </span>{' '}
+                    I joined this project as a front-end developer, where I
+                    worked closely with the team to create a dashboard for data
+                    analysis, developed customer reports, and occasionally
+                    assisted with back-end coding to support my colleagues. The
+                    project focused on data analysis for an insurance company.
+                  </li>
+                  <li>
+                    <span className="font-semibold text-teal-500 duration-200 hover:text-teal-600 hover:underline hover:underline-offset-2 dark:text-teal-400">
+                      Blueberries:
+                    </span>{' '}
+                    A completed system to manager sales for electronic
+                    distributors in Singapore. As the team leader, I've
+                    coordinated the team members to work closely with the
+                    customer to design and implement an efficient platform that
+                    streamlined inventory management, sales tracking and human
+                    resources management.
+                  </li>
+                  <li>
                     <a
-                      href="https://russdev.net"
+                      href="https://business.cozycot.com"
                       target="_blank"
                       className="font-semibold text-teal-500 duration-200 hover:text-teal-600 hover:underline hover:underline-offset-2 dark:text-teal-400"
                       rel="noreferrer"
                     >
-                      This Portfolio:
+                      CozyCot:
                     </a>{' '}
-                    The idea came to me after I read a post on{' '}
-                    <a
-                      href="https://dev.to/naomipham_/how-to-create-darklight-mode-with-react-and-tailwind-59e0"
-                      target="_blank"
-                      className="font-semibold text-teal-500 duration-200 hover:text-teal-600 hover:underline hover:underline-offset-2 dark:text-teal-400"
-                      rel="noreferrer"
-                    >
-                      Dev.to
-                    </a>
-                    . I completed this portfolio in less than 8 hours without
-                    any sketching, just coding. Big shout out to{' '}
-                    <a
-                      href="https://dev.to/naomipham_"
-                      target="_blank"
-                      className="font-semibold text-teal-500 duration-200 hover:text-teal-600 hover:underline hover:underline-offset-2 dark:text-teal-400"
-                      rel="noreferrer"
-                    >
-                      Naomi Pham
-                    </a>{' '}
-                    for giving me this idea.
+                    A CRM platform helps businesses efficiently manage and
+                    analyze customer reviews to gain valuable insights. By
+                    consolidating feedback from multiple sources, the platform
+                    enables companies to track customer sentiment, identify
+                    trends, and uncover areas for improvement. I was the team
+                    leader of the project and the MVP was successfully delivered
+                    with the help of my 4 teammates.
                   </li>
                   <li>
                     <a
@@ -86,10 +94,10 @@ const Works = () => {
                     Membership page, Learning page and creating new Events page,
                     I helped the users to easily choose what they want to learn
                     and which subscription packages they want to pay for. I also
-                    delivered a brand new trading competition called
-                    7-days Challenge (a fantasy trading game) to help new
-                    traders experience with the stock market before they enter
-                    the real battle.
+                    delivered a brand new trading competition called 7-days
+                    Challenge (a fantasy trading game) to help new traders
+                    experience with the stock market before they enter the real
+                    battle.
                   </li>
                   <li>
                     <span className="font-semibold text-teal-500 dark:text-teal-400">
