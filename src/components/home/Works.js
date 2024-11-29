@@ -52,7 +52,7 @@ const Works = () => {
                       Blueberries:
                     </span>{' '}
                     A completed system to manager sales for electronic
-                    distributors in Singapore. As the team leader, I've
+                    distributors in Singapore. As the team leader, I&apos;ve
                     coordinated the team members to work closely with the
                     customer to design and implement an efficient platform that
                     streamlined inventory management, sales tracking and human
